@@ -1,0 +1,4 @@
+0. d x d, for 3 <= d <= 9
+1. a bidimensional array.
+2. greet();
+3. init, draw, move, won.
